@@ -1,0 +1,23 @@
+{
+  "name": "my-nodejs-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchsing/my-nodejs-development.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cchsing/my-nodejs-development/issues"
+  },
+  "homepage": "https://github.com/cchsing/my-nodejs-development#readme",
+  "dependencies": {
+    "pino": "^8.0.0"
+  }
+}
